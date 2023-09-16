@@ -10,13 +10,15 @@
     transform: -50%,-50%;
     padding: 80px;
     border-radius: 15px;
-    cursor: pointer;
+   
 }
 .button{
     border-radius: 6px;
     position: relative;
     left: 50px;
+    cursor: pointer;
 }
 .dados{
     border-radius: 6px;
+    cursor: pointer;
 }
